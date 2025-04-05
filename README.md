@@ -19,7 +19,7 @@ Atualmente estudo no IFCE - Campus Maranguape, onde estou sempre me desafiando a
 
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
 
 
           
