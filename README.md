@@ -1,16 +1,27 @@
-## Hi there 👋
+## Olá, eu sou Yarlei 👋
 
-<!--
-**ddzzkz/ddzzkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Desenvolvedor Python | 🏐 Jogador de Vôlei | 🎓 Estudante do IFCE - Campus Maranguape
 
-Here are some ideas to get you started:
+Oi! 👋 Meu nome é Yarlei, sou apaixonado por transformar ideias em soluções através do código.
+Atualmente estudo no IFCE - Campus Maranguape, onde estou sempre me desafiando a aprender mais sobre tecnologia, inovação e boas práticas de desenvolvimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Trabalho principalmente com Python e estou estudando java, desenvolvendo scripts e projetos. Estou sempre buscando novos conhecimentos e maneiras de criar soluções que fazem a diferença.
+
+🏐 Fora do computador, também sou jogador de vôlei, esporte que me ensinou disciplina, resiliência e trabalho em equipe — qualidades que aplico tanto nos estudos quanto na programação.
+
+💡 Aqui no GitHub compartilho meus projetos, experiências e aprendizados enquanto sigo crescendo na área de tecnologia.
+🤝 Sempre aberto para colaborar, trocar ideias e construir projetos incríveis com a comunidade!
+
+"Escrevendo código com paixão e jogando vôlei com coração." 🐍🏐
+
+
+
+
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+
+          
+          
+          
