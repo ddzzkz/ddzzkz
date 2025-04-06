@@ -13,7 +13,7 @@ Atualmente estudo no IFCE - Campus Maranguape, onde estou sempre me desafiando a
 🤝 Sempre aberto para colaborar, trocar ideias e construir projetos incríveis com a comunidade!
 
 
-
+"Escrevendo código com paixão e jogando vôlei com coração." 🐍🏐
 
 
 
